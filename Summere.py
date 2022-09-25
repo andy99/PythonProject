@@ -1,3 +1,4 @@
+# While loop
 
 def summere(tall):
     print(tall,"Tall har verdi")
