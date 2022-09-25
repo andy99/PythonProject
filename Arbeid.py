@@ -35,7 +35,7 @@ def omformdata(soup):
 
 tittel = []
 for i in range(0,10,50):
-    print(f'Henter side                                        Gunnar,{i}')
+    print(f'Henter side Gunnar,{i}')
     c = hentdata(i)
     omformdata(c)
 print(len(tittel))
