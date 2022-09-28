@@ -1,0 +1,48 @@
+,firma,antall stillinger
+0,EINR AS,Summer Intern 2023
+1,4 stillinger,Sesongmedarbeider Oslo
+2,The Body Shop,Summer Internship 2023
+3,10 stillinger,Sesonghjelp jul
+4,Statsbygg,Tilkallingshjelp
+5,25 stillinger,Produksjonsmedarbeider
+6,Princess Gruppen AS,Lagermedarbeider
+7,1 stilling,UX-Designer
+8,Princess Gruppen AS,Produksjonsmedarbeider
+9,1 stilling,Utvikler
+10,Randstad AS,Dekkskifter
+11,1 stilling,"Er du glad i mennesker, er nøyaktig og har et høyt arbeidstempo"
+12,Randstad AS,Flyttemedarbeider
+13,1 stilling,Er du fysisk sterk og vil prøve deg som dekkmontør?
+14,Kantega AS,Er du fysisk sterk og vil prøve deg som dekkmontør?
+15,2 stillinger,Tilkallingsvikar
+16,Randstad,Sesonghjelp
+17,1 stilling,Sesonghjelp
+18,Kantega AS,Summer Intern 2023
+19,5 stillinger,Butikkselger
+20,Manpower,Butikkansatt
+21,1 stilling,Butikkselger
+22,Norli AS Norli Eldorado,Butikkselger
+23,2 stillinger,Butikkmedarbeider
+24,Temp-Team AS,Sesonghjelp
+25,3 stillinger,KICKS Åsane Storsenter søker tilkalling (ekstrahjelp)
+26,TEMP-TEAM avd. Stavanger,Ekstrahjelp som butikkselger
+27,3 stillinger,Dekkskiftere
+28,TEMP-TEAM avd. Stavanger,Sesonghjelp
+29,3 stillinger,Er du fysisk sterk og vil prøve deg som dekkmontør?
+30,Sykehuset Innlandet HF,Er du fysisk sterk og vil prøve deg som dekkmontør?
+31,4 stillinger,Dekkomlegger
+32,Voice Norge,Butikkselger
+33,1 stilling,Sommerjobb som utvikler i NAV IT
+34,Voice Norge,Butikkmedarbeider
+35,2 stillinger,Tilkallingshjelp
+36,EINR AS,Tilkallingsvikar
+37,4 stillinger,Miljøterapeut
+38,Voice Norge,Fagarbeider/arbeider
+39,1 stilling,Tech Summer Intern
+40,Mester Grønn Tveita Senter,"Varehusmedarbeider 10%, 45% og 50%"
+41,1 stilling,Binderimedarbeider
+42,Voice Norge,Obs Vestkanten søker etter positive og blide sesonghjelper:-)
+43,2 stillinger,Rådgiver
+44,Sør-Vest,Ekstrahjelp høysesong Kitch'n kundesenter
+45,4 stillinger,Ekstrahjelp høysesong Kitch'n kundesenter
+46,Voice Norge,Ekstrahjelp
